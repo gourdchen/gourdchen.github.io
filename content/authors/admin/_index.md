@@ -3,7 +3,7 @@
 title: Pindong Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Pindong Chen
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Pindong 品东
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,10 +28,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pindong.chen@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/
+    url: https://twitter.com/PindongChen
   - icon: brands/github
     url: https://github.com/
   - icon: brands/linkedin
@@ -41,37 +41,32 @@ profiles:
 
 education:
   - area: PhD in Neuroimaging
-    institution: Stanford University
+    institution: Institute of Automation, Chinese Academy of Sciences
     date_start: 2019-06-01
     date_end: 2024-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Functional Networks Heterogeneity in Alzheimer's Disease. Supervised by [Prof Yong Liu].
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Google Scholar'
+      url: 'https://scholar.google.com/citations?user=AasniyYAAAAJ'
+  - area: Visiting Students in Clinical Neurosciences
+    institution: University of Cambridge 
+    date_start: 2023-09-01
+    date_end: 2024-03-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+      Project on Functional alteration across dementias. Supervised by [Dr. Timothy Rittman]
+  - area: BSc in Internet of Things (IoT)
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-09-01
+    date_end: 2019-06-01
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.91/5.0
+      Ranking TOP 1
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+      - Programming
+      - Operation System
+      - Embedded system
+Research Experience:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -169,4 +164,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently completing my PhD and finding a postion for Postdoc research.
