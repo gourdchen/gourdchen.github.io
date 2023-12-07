@@ -4,6 +4,13 @@ date: 2023-10-24
 type: landing
 
 # Note: `username` refers to the user's folder name in `content/authors/`
+image:
+  placement: 1
+  caption: ''
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
 
 # Page sections
 sections:
