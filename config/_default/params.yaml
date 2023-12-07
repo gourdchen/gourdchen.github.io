@@ -30,16 +30,18 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    show_search: true
+    show_theme_chooser: true
+    #blox: floating-theme-toggler
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me.'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
