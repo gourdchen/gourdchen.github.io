@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Pindong Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pindong Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pindong 品东
+last_name: Chen 陈
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Brainnetome Center, Institute of Automation, Chinese Academy of Sciences
     url: https://www.example.com/
 
 # Social network links
@@ -31,19 +31,19 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Neuroimaging
     institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-01-01
+    date_end: 2024-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
