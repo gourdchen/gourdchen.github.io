@@ -70,7 +70,8 @@ education:
       GPA: 3.91/5.0
       Ranking TOP 1
       Courses included: Programming | Operation System | Embedded system
-Research Experience:
+
+experience:
   - position: Student researcher
     company_name: Institute of Automation, Chinese Academy of Sciences
     company_url: ''
@@ -137,7 +138,9 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Research:
+
+
+research:
   - title: Four distinct subtypes of Alzheimer's disease in functional networks
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-5-1'
