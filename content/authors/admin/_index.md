@@ -63,39 +63,35 @@ education:
     summary: |
       Project on Functional alteration across dementias. Supervised by [Dr. Timothy Rittman]
   - area: BSc in Internet of Things (IoT)
-    institution: Massachusetts Institute of Technology
+    institution: North China Eletric Power Univeristy
     date_start: 2015-09-01
     date_end: 2019-06-01
     summary: |
       GPA: 3.91/5.0
       Ranking TOP 1
-      Courses included:
-      - Programming
-      - Operation System
-      - Embedded system
+      Courses included: Programming | Operation System | Embedded system
 Research Experience:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Student researcher
+    company_name: Institute of Automation, Chinese Academy of Sciences
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2018-12-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - MRI dataset preprocessing
+      - Functional brain network analysis
+  - position: Algorithm Engineer
+    company_name: Chengying LTD
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: 2022-06-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Devloping MRI preprocssing system
+      - Establishing the disease risk model based on MRI
+      - Brain segemanation
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -165,8 +161,7 @@ Research:
     date: '2023-01-21'
     awarder: datacamp
     icon: datacamp
-    summary: |
-      .
+    summary: | 
 ---
 
 I am currently completing my PhD and finding a postion for Postdoc research.
